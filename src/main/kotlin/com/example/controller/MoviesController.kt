@@ -4,8 +4,6 @@ import com.example.model.Movie
 import com.example.service.MoviesService
 import io.micronaut.http.annotation.Controller
 import io.micronaut.http.annotation.Get
-import kotlinx.coroutines.Deferred
-import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.async
 import kotlinx.coroutines.coroutineScope
 
